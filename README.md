@@ -1,3 +1,11 @@
 # YOU CANT
 
 # Hacking_Lord_Comm_V2
+
+# TB ///
+AM TOOLA UPDATE AKRETAWA LA LAYAN > HAMA LORDY EZRAILY <
+
+# BEST TOOL 
+
+# NOTE
+Updates coming to him BY > HAMA LORDY EZRAILY <
