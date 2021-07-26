@@ -83,7 +83,7 @@ sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
-br.addheaders = [('user-agent', 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109/it_IT;FBAV/328.0.0.22.119/it_IT;FBAV/328.0.0.22.119/it_IT;FBAV/303.0.0.30.122;]')]
+br.addheaders = [('user-agent', 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109/it_IT;FBAV/328.0.0.22.119/it_IT;FBAV/328.0.0.22.119;]')]
 
 def exb():
     print '[!] Exit'
@@ -116,16 +116,15 @@ logo = logo ="""
 
 
 
-\033[4;92m++++++++++++++++++++ CRACK FB +++++++++++++++++++++
+\033[92m+++++++++++++++++++++++++++++++++++++++++ CRACK FB ++++++++++++++++++++++++++++++++++++++++++
 
-\033[4;91m+++++++++++++++++++++++++++++++++++++++++++++++++++
+\033[91m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-\033[4;91m++++++++++++++++++++ YOU_CANT +++++++++++++++++++++
+\033[91m+++++++++++++++++++++++++++++++++++++++++ YOU_CANT ++++++++++++++++++++++++++++++++++++++++++
 
-\033[4;91m+++++++++++++++++++++++++++++++++++++++++++++++++++
+\033[91m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-\033[4;92m++++++++++++++++++++ CRACK FB +++++++++++++++++++++
-
+\033[92m+++++++++++++++++++++++++++++++++++++++++ CRACK FB ++++++++++++++++++++++++++++++++++++++++++
  \033 AUTHOR>>> HAMA LORDY EZRAILY
  CHANNEL>>> @CRACKER_TEAM_KURD
  \033   TB /// AM TOOLA UPDATE AKRETAWA LALAYAN > HAMA LORDY EZRAILY <
